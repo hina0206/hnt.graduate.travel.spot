@@ -1,0 +1,14 @@
+[
+  {
+    "id": "0001",
+    "name": "観光地名",
+    "tags": ["自然", "写真映え"],
+    "mainImage": "images/0001/main.jpg"
+  },
+  {
+    "id": "0002",
+    "name": "別の観光地",
+    "tags": ["歴史", "家族向け"],
+    "mainImage": "images/0002/main.jpg"
+  }
+]
