@@ -4,7 +4,7 @@
     "name": "",
     "prefecture": "",
     "tags": ["", "", ""],
-    "mainImage": "images/0001/main.jpg",
+    "mainImage": "images/0000/main.jpg",
     "description": "",
     "page": "",
     "estimatedTime": ,
@@ -14,19 +14,33 @@
     }
   },
 
-    {
+  {
     "id": "0001",
-    "name": "",
-    "prefecture": "",
-    "tags": ["", "", ""],
+    "name": "旭山動物園",
+    "prefecture": "北海道",
+    "tags": ["自然", "癒し","動物", "家族向け","カップル","友達","子供向け","山"],
     "mainImage": "images/0001/main.jpg",
     "description": "",
     "page": "",
-    "estimatedTime": ,
+    "estimatedTime": 3.5,
     "location": {
-      "lat": ,
-      "lng": 
+      "lat": 43.76910064145292, 
+      "lng": 142.4790762659227
+    }
+   },
+
+  {
+    "id": "0002",
+    "name": "小樽運河クルーズ",
+    "prefecture": "北海道",
+    "tags": ["写真映え", "体験", "カップル","友達","街中"],
+    "mainImage": "images/0002/main.jpg",
+    "description": "",
+    "page": "",
+    "estimatedTime": 0.75,
+    "location": {
+      "lat": 43.200137785606564, 
+      "lng": 141.00175259983058
     }
   },
-
 ]
