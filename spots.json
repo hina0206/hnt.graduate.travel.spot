@@ -1,20 +1,5 @@
 [
-  {
-    "id": "0000",
-    "name": "",
-    "prefecture": "",
-    "tags": ["", "", ""],
-    "mainImage": "images/0000/main.jpg",
-    "description": "",
-    "page": "",
-    "estimatedTime": ,
-    "location": {
-      "lat": ,
-      "lng": 
-    }
-  },
-
-  {
+ {
     "id": "0001",
     "name": "旭山動物園",
     "prefecture": "北海道",
