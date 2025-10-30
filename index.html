@@ -23,29 +23,32 @@
   </footer>
 
   <script>
-    fetch('spot.json')
-      .then(res => res.json())
-      .then(data => {
-        const container = document.getElementById('cards');
-        data.forEach(spot => {
-          const card = document.createElement('div');
-          card.className = 'spot-card';
-
-          card.innerHTML = `
-            <img src="${spot.mainImage}" alt="${spot.name}" />
+  fetch('spot.json')
+    .then(res => res.json())
+    .then(data => {
+      const container = document.getElementById('spot-cards');
+  
+      data.forEach(spot => {
+        const card = document.createElement('div');
+        card.className = 'spot-card';
+        card.onclick = () => {
+          window.location.href = `spots/${spot.id}.html`;
+        };
+  
+        card.innerHTML = `
+          <img src="${spot.mainImage}" alt="${spot.name}" />
+          <div class="card-content">
             <h3>${spot.name}</h3>
-            <p>${spot.prefecture}</p>
-            <div class="spot-tags">${spot.tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>
-          `;
-
-          if (spot.page) {
-            card.addEventListener('click', () => window.location.href = spot.page);
-          }
-
-          container.appendChild(card);
-        });
-      })
-      .catch(err => console.error('JSON読み込みエラー:', err));
+            <div class="card-tags">
+              ${spot.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+            </div>
+          </div>
+        `;
+  
+        container.appendChild(card);
+      });
+    });
   </script>
+
 </body>
 </html>
