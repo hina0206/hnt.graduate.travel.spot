@@ -23,34 +23,38 @@
   </footer>
 
   <script>
-  fetch('spots.json')
-    .then(res => res.json())
-    .then(data => {
-      const container = document.getElementById('spot-cards');
-  
-      data.forEach(spot => {
-        const card = document.createElement('div');
-        card.className = 'spot-card';
-        card.onclick = () => {
-          window.location.href = `spots/${spot.id}.html`;
-        };
-  
-        card.innerHTML = `
-          <img src="${spot.mainImage}" alt="${spot.name}" />
-          <div class="card-content">
-            <h3>${spot.name}</h3>
-            <div class="card-tags">
-              ${spot.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+    fetch('spots.json')
+      .then(res => res.json())
+      .then(data => {
+        const container = document.getElementById('spot-cards');
+
+        data.forEach(spot => {
+          // 0000テンプレは一覧に出さない
+          if (spot.id === "0000") return;
+
+          const card = document.createElement('div');
+          card.className = 'spot-card';
+
+          // カードクリックで詳細ページに移動
+          card.onclick = () => {
+            window.location.href = `spots/${spot.id}.html`;
+          };
+
+          // カード内のHTML
+          card.innerHTML = `
+            <img src="${spot.mainImage}" alt="${spot.name}" />
+            <div class="card-content">
+              <h3>${spot.name}</h3>
+              <p>${spot.prefecture}</p>
+              <div class="card-tags">
+                ${spot.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+              </div>
             </div>
-          </div>
-        `;
-      /* ページリンクがあればクリックで移動
-      if (spot.page) {
-        card.addEventListener('click', () => window.location.href = spot.page);
-      } */
-        container.appendChild(card);
-      });
-    })
+          `;
+
+          container.appendChild(card);
+        });
+      })
       .catch(err => console.error('JSON読み込みエラー:', err));
   </script>
 
