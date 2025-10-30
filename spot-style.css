@@ -99,3 +99,42 @@ footer {
 .back-link:hover {
   text-decoration: underline;
 }
+
+/*ここからがカードのCSS*/
+
+.spot-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  padding: 1rem 0;
+}
+
+.spot-card {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.spot-card:hover {
+  transform: translateY(-5px);
+}
+
+.spot-card img {
+  width: 100%;
+  display: block;
+}
+
+.spot-card .card-content {
+  padding: 0.5rem 1rem 1rem 1rem;
+}
+
+.spot-card .card-content h3 {
+  margin: 0.5rem 0;
+}
+
+.spot-card .card-tags {
+  margin-top: 0.5rem;
+}
