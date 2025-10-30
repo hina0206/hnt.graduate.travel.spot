@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>観光地一覧 - にほん旅ナビ</title>
+  <link rel="stylesheet" href="spot-style.css" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background: #f9f9f9;
+    }
+    #cards {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+    .spot-card {
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 1rem;
+      width: 220px;
+      background: #fff;
+      box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+      cursor: pointer;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .spot-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 2px 4px 10px rgba(0,0,0,0.2);
+    }
+    .spot-card img {
+      width: 100%;
+      border-radius: 4px;
+      margin-bottom: 0.5rem;
+    }
+    .spot-tags {
+      font-size: 0.85rem;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>観光地一覧</h1>
+  </header>
+
+  <main>
+    <div id="cards"></div>
+  </main>
+
+  <footer>
+    <a href="https://hina0206.github.io/hnt.graduate.travel/japan.html" class="back-link">← 都道府県から探すに戻る</a><br>
+    <a href="https://hina0206.github.io/hnt.graduate.travel/tag.html" class="back-link">← タグから探すに戻る</a>
+  </footer>
+
+  <script>
+    fetch('spot.json')
+      .then(response => response.json())
+      .then(data => {
+        const container = document.getElementById('cards');
+        data.forEach(spot => {
+          // カード作成
+          const card = document.createElement('div');
+          card.className = 'spot-card';
+
+          // 中身のHTML
+          card.innerHTML = `
+            <img src="${spot.mainImage}" alt="${spot.name}" />
+            <h3>${spot.name}</h3>
+            <p>${spot.prefecture}</p>
+            <div class="spot-tags">タグ: ${spot.tags.join(', ')}</div>
+          `;
+
+          // クリックで詳細ページに遷移（まだpageが空の場合は無効）
+          if(spot.page) {
+            card.addEventListener('click', () => {
+              window.location.href = spot.page;
+            });
+          }
+
+          container.appendChild(card);
+        });
+      })
+      .catch(err => console.error('JSON読み込みエラー:', err));
+  </script>
+</body>
+</html>
