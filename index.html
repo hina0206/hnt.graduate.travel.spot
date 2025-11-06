@@ -40,29 +40,28 @@
             window.location.href = `spots/${spot.id}.html`;
           };
         // 都道府県名をローマ字URLに変換
-        const prefSlug = spot.prefectureRomaji || spot.prefecture.toLowerCase();
+        const prefSlug = spot.prefectureRomaji || encodeURIComponent(spot.prefecture.toLowerCase());
 
-          <p class="pref" 
-             onclick="event.stopPropagation(); 
-             window.location.href='https://hina0206.github.io/hnt.graduate.travel.pref/' + '${prefSlug}.html'">
-             ${spot.prefecture}
-          </p>
+        // タグ
+        const tagHTML = (spot.tags || []).map(tag =>
+          `<span class="tag" onclick="event.stopPropagation(); window.location.href='https://hina0206.github.io/hnt.graduate.travel/tag.html?tag=${encodeURIComponent(tag)}'">${tag}</span>`
+        ).join('');
 
-  
-          // カードの中身
-          card.innerHTML = `
-            <img src="${spot.mainImage}" alt="${spot.name}" />
-            <div class="card-content">
-              <h3>${spot.name}</h3>
-              <p class="pref" onclick="event.stopPropagation(); window.location.href='pref/${encodeURIComponent(spot.prefecture)}.html'">
+          
+        // カードの中身
+        card.innerHTML = `
+          <img src="${spot.mainImage}" alt="${spot.name}" />
+          <div class="card-content">
+            <h3>${spot.name}</h3>
+            <p class="pref" onclick="event.stopPropagation(); window.location.href='pref/${encodeURIComponent(spot.prefecture)}.html'">
                 ${spot.prefecture}
-              </p>
-              <div class="card-tags">
-                ${spot.tags.map(tag =>
-                  `<span class="tag" onclick="event.stopPropagation(); window.location.href='https://hina0206.github.io/hnt.graduate.travel/tag.html?tag=${encodeURIComponent(tag)}'">${tag}</span>`
-                ).join('')}
-              </div>
+            </p>
+            <div class="card-tags">
+              ${spot.tags.map(tag =>
+                `<span class="tag" onclick="event.stopPropagation(); window.location.href='https://hina0206.github.io/hnt.graduate.travel/tag.html?tag=${encodeURIComponent(tag)}'">${tag}</span>`
+              ).join('')}
             </div>
+          </div>
           `;
   
           container.appendChild(card);
