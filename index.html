@@ -27,36 +27,41 @@
       .then(res => res.json())
       .then(data => {
         const container = document.getElementById('spot-cards');
-
+  
         data.forEach(spot => {
-          /* 0000テンプレは一覧に出さないやつ
+        /*0000テンプレは一覧に出さない
           if (spot.id === "0000") return;*/
-
+  
           const card = document.createElement('div');
           card.className = 'spot-card';
-
-          // カードクリックで詳細ページに移動
+  
+          // カード全体クリックで詳細ページへ
           card.onclick = () => {
             window.location.href = `spots/${spot.id}.html`;
           };
-
-          // カード内のHTML
+  
+          // カードの中身
           card.innerHTML = `
             <img src="${spot.mainImage}" alt="${spot.name}" />
             <div class="card-content">
               <h3>${spot.name}</h3>
-              <p>${spot.prefecture}</p>
+              <p class="pref" onclick="event.stopPropagation(); window.location.href='pref/${encodeURIComponent(spot.prefecture)}.html'">
+                ${spot.prefecture}
+              </p>
               <div class="card-tags">
-                ${spot.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+                ${spot.tags.map(tag =>
+                  `<span class="tag" onclick="event.stopPropagation(); window.location.href='https://hina0206.github.io/hnt.graduate.travel/tag.html?tag=${encodeURIComponent(tag)}'">${tag}</span>`
+                ).join('')}
               </div>
             </div>
           `;
-
+  
           container.appendChild(card);
         });
       })
       .catch(err => console.error('JSON読み込みエラー:', err));
   </script>
+
 
 </body>
 </html>
