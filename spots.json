@@ -57,5 +57,20 @@
       "lat": 43.064898342420925,  
       "lng": 141.35169067116465
     }
+  },
+ 
+  {
+    "id": "0004",
+    "name": "根室花まる　大同生命札幌ビルmiredo店",
+    "prefecture": "北海道",
+    "tags": ["冬","グルメ","街中"],
+    "mainImage": "images/0004/main.jpg",
+    "description": "",
+    "page": "",
+    "estimatedTime": 0.75,
+    "location": {
+      "lat": 43.064898342420925,  
+      "lng": 141.35169067116465
+    }
   }
 ]
