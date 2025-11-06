@@ -42,7 +42,7 @@
       "lat": 43.056508905394175,  
       "lng": 141.3536128153414
     }
-  }
+  },
 
   {
     "id": "0004",
@@ -60,11 +60,11 @@
   },
  
   {
-    "id": "0004",
-    "name": "根室花まる　大同生命札幌ビルmiredo店",
+    "id": "0005",
+    "name": "北海道神宮",
     "prefecture": "北海道",
-    "tags": ["冬","グルメ","街中"],
-    "mainImage": "images/0004/main.jpg",
+    "tags": ["自然","歴史","一人旅"],
+    "mainImage": "images/0005/main.jpg",
     "description": "",
     "page": "",
     "estimatedTime": 0.75,
