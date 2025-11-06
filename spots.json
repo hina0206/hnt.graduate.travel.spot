@@ -72,5 +72,35 @@
       "lat": 43.064898342420925,  
       "lng": 141.35169067116465
     }
+  },
+
+  {
+    "id": "0006",
+    "name": "弘前城",
+    "prefecture": "青森",
+    "tags": ["歴史","建築","写真映え","春","秋","冬","紅葉","雪景色"],
+    "mainImage": "images/0006/main.jpg",
+    "description": "",
+    "page": "",
+    "estimatedTime": 1,
+    "location": {
+      "lat": 40.608054367109325,  
+      "lng": 140.46357956927224 
+    }
+  },
+ 
+  {
+    "id": "0007",
+    "name": "秋田比内地鶏や",
+    "prefecture": "秋田",
+    "tags": ["グルメ","家族向け","友達","一人旅","駅近"],
+    "mainImage": "images/0007/main.jpg",
+    "description": "",
+    "page": "",
+    "estimatedTime": 0.75,
+    "location": {
+      "lat": 39.71704656561717,   
+      "lng": 140.12916818650754
+    }
   }
 ]
