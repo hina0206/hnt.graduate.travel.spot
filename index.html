@@ -41,6 +41,13 @@
           };
         // 都道府県名をローマ字URLに変換
         const prefSlug = spot.prefectureRomaji || spot.prefecture.toLowerCase();
+
+          <p class="pref" 
+             onclick="event.stopPropagation(); 
+             window.location.href='https://hina0206.github.io/hnt.graduate.travel.pref/' + '${prefSlug}.html'">
+             ${spot.prefecture}
+          </p>
+
   
           // カードの中身
           card.innerHTML = `
