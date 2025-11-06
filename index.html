@@ -39,6 +39,8 @@
           card.onclick = () => {
             window.location.href = `spots/${spot.id}.html`;
           };
+        // 都道府県名をローマ字URLに変換
+        const prefSlug = spot.prefectureRomaji || spot.prefecture.toLowerCase();
   
           // カードの中身
           card.innerHTML = `
