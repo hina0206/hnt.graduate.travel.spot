@@ -138,3 +138,13 @@ footer {
 .spot-card .card-tags {
   margin-top: 0.5rem;
 }
+
+/* カード画像の縦横比を統一（中央トリミング） */
+.spot-card img {
+  width: 100%;
+  height: 180px; /* 好きな高さに調整可（例：200pxにしてもOK） */
+  object-fit: cover; /* 画像をトリミングして枠に収める */
+  object-position: center;
+  display: block;
+  border-bottom: 1px solid #eee;
+}
