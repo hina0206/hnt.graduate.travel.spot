@@ -52,6 +52,12 @@ ul {
   font-size: 0.9rem;
 }
 
+.tag:hover {
+  background-color: #4a90e2;
+  color: #fff;
+  transition: 0.2s;
+}
+
 footer {
   text-align: center;
   padding: 1rem;
