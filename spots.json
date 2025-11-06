@@ -93,7 +93,7 @@
     "id": "0007",
     "name": "秋田比内地鶏や",
     "prefecture": "秋田",
-    "tags": ["グルメ","家族向け","友達","一人旅","駅近"],
+    "tags": ["グルメ","家族向け","友達","一人旅","街中","駅近"],
     "mainImage": "images/0007/main.jpg",
     "description": "",
     "page": "",
@@ -101,6 +101,51 @@
     "location": {
       "lat": 39.71704656561717,   
       "lng": 140.12916818650754
+    }
+  },
+ 
+  {
+    "id": "0008",
+    "name": "上杉神社",
+    "prefecture": "山形",
+    "tags": ["自然","歴史","田舎"],
+    "mainImage": "images/0008/main.jpg",
+    "description": "",
+    "page": "",
+    "estimatedTime": 0.75,
+    "location": {
+      "lat": 37.90943089756871, 
+      "lng": 140.1041640355823
+    }
+  },
+
+  {
+    "id": "0009",
+    "name": "仙台七夕まつり",
+    "prefecture": "山形",
+    "tags": ["歴史","文化","写真映え","夏","街中","駅近"],
+    "mainImage": "images/0009/main.jpg",
+    "description": "",
+    "page": "",
+    "estimatedTime": 0.75,
+    "location": {
+      "lat": 38.261644123044746,  
+      "lng": 140.87301614888412
+    }
+  },
+
+  {
+    "id": "0010",
+    "name": "京都水族館",
+    "prefecture": "京都",
+    "tags": ["自然","写真映え","癒し","動物","家族向け","カップル","友達","子供向け","街中"],
+    "mainImage": "images/0010/main.jpg",
+    "description": "",
+    "page": "",
+    "estimatedTime": 2,
+    "location": {
+      "lat": 34.98775332664402, 
+      "lng": 135.74717474907612
     }
   }
 ]
