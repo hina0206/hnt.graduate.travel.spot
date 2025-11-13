@@ -202,5 +202,20 @@
       "lat": 36.56118587916719, 
       "lng": 136.65870104896183
     }
+   },
+   {
+    "id": "0014",
+    "name": "熊本城",
+    "prefecture": "熊本",
+    "prefectureRomaji": "kumamoto",
+    "tags": ["歴史","建築","友達","一人旅","街中"],
+    "mainImage": "images/0014/main.jpg",
+    "description": "",
+    "page": "",
+    "estimatedTime": 2,
+    "location": {
+      "lat": 32.806375244595024, 
+      "lng": 130.7058442239145
+    }
   }
 ]
