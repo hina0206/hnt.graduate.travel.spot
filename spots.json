@@ -157,5 +157,20 @@
       "lat": 34.98775332664402, 
       "lng": 135.74717474907612
     }
-  }
+  },
+  {
+    "id": "0011",
+    "name": "川越氷川神社",
+    "prefecture": "埼玉",
+    "prefectureRomaji": "saitama",
+    "tags": ["文化","写真映え","夏","街中"],
+    "mainImage": "images/0011/main.jpg",
+    "description": "",
+    "page": "",
+    "estimatedTime": 0.25,
+    "location": {
+      "lat": 35.9283108234429,  
+      "lng": 139.4880437845298 
+    }
+  },
 ]
