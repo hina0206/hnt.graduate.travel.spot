@@ -173,4 +173,34 @@
       "lng": 139.4880437845298 
     }
   },
+  {
+    "id": "0012",
+    "name": "富山市ガラス美術館",
+    "prefecture": "富山",
+    "prefectureRomaji": "toyama",
+    "tags": ["建築","写真映え","街中"],
+    "mainImage": "images/0012/main.jpg",
+    "description": "",
+    "page": "",
+    "estimatedTime": 0.75,
+    "location": {
+      "lat": 36.68857933699901, 
+      "lng": 137.2151857953011
+    }
+  },
+   {
+    "id": "0012",
+    "name": "富山市ガラス美術館",
+    "prefecture": "富山",
+    "prefectureRomaji": "toyama",
+    "tags": ["建築","写真映え","街中"],
+    "mainImage": "images/0012/main.jpg",
+    "description": "",
+    "page": "",
+    "estimatedTime": 0.75,
+    "location": {
+      "lat": 36.68857933699901, 
+      "lng": 137.2151857953011
+    }
+  }
 ]
