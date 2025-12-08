@@ -111,3 +111,11 @@ h2 {
   display: block;
   border-bottom: 1px solid #eee;
 }
+
+.site-footer {
+  background: #f0f0f0;
+  color: #333;
+  text-align: center;
+  padding: 1rem;
+  border-top: 1px solid #ddd;
+}
