@@ -7,11 +7,43 @@ body {
   color: #333;
 }
 
-header {
-  background-color: #000;
-  color: #fff;
+/* ========== 共通ヘッダー ========== */
+
+.site-header {
+  background-color: #f6f6f8; /* 白系だけど境界は見える */
+  border-bottom: 1px solid #ddd;
+  padding: 0.6rem 1rem;
+}
+
+.header-inner {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-title {
+  font-size: 1.4rem;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.header-title {
+  font-size: 1.1rem;
+  color: #444;
   text-align: center;
-  padding: 1rem;
+  flex: 1;
+}
+
+/* タイトルがない時は高さだけ確保 */
+.header-title:empty {
+  visibility: hidden;
+}
+
+.header-right {
+  width: 60px; /* 左右バランスを揃える */
 }
 
 main {
