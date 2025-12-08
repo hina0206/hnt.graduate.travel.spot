@@ -35,10 +35,11 @@
           const card = document.createElement('div');
           card.className = 'spot-card';
   
-          // カード全体クリックで詳細ページへ
+          /* カード全体クリックで詳細ページへ
           card.onclick = () => {
             window.location.href = `spots/${spot.id}.html`;
-          };
+          };*/
+          
         // 都道府県名をローマ字URLに変換
         const prefSlug = spot.prefectureRomaji || encodeURIComponent(spot.prefecture.toLowerCase());
 
