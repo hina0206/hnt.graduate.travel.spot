@@ -217,5 +217,111 @@
       "lat": 32.806375244595024, 
       "lng": 130.7058442239145
     }
+  },
+ 
+  {
+  "id": "0015",
+  "name": "瑞鳳殿",
+  "prefecture": "宮城",
+  "prefectureRomaji": "miyagi",
+  "tags": ["自然"],
+  "mainImage": "images/0015/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": ,
+    "lng": 
+  } 
+ }
+ {
+  "id": "0016",
+  "name": "横浜中華街",
+  "prefecture": "神奈川",
+  "prefectureRomaji": "kanagawa",
+  "tags": ["自然"],
+  "mainImage": "images/0016/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 3,
+  "location": {
+    "lat": ,
+    "lng": 
   }
+ },
+ {
+  "id": "0017",
+  "name": "オルゴール美術館",
+  "prefecture": "山梨",
+  "prefectureRomaji": "yamanashi",
+  "tags": ["自然"],
+  "mainImage": "images/0017/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 3,
+  "location": {
+    "lat": ,
+    "lng": 
+  }
+ },
+ {
+  "id": "0018",
+  "name": "永平寺",
+  "prefecture": "福井",
+  "prefectureRomaji": "fukui",
+  "tags": ["自然"],
+  "mainImage": "images/0018/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": ,
+    "lng": 
+  }
+ },
+ {
+  "id": "0019",
+  "name": "岐阜城",
+  "prefecture": "岐阜",
+  "prefectureRomaji": "gifu",
+  "tags": ["自然"],
+  "mainImage": "images/0019/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2,
+  "location": {
+    "lat": ,
+    "lng": 
+  }
+ },
+ {
+  "id": "0020",
+  "name": "竹島水族館",
+  "prefecture": "愛知",
+  "prefectureRomaji": "aichi",
+  "tags": ["自然"],
+  "mainImage": "images/0020/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2,
+  "location": {
+    "lat": ,
+    "lng": 
+  }
+ },
+ {
+  "id": "0021",
+  "name": "日本平夢テラス",
+  "prefecture": "静岡",
+  "prefectureRomaji": "shizuoka",
+  "tags": ["自然"],
+  "mainImage": "images/0021/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": ,
+    "lng": 
+  }
+ }
 ]
