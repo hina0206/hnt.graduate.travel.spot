@@ -701,6 +701,176 @@
     "lat": 34.820179,
     "lng": 137.225203
   }
+},
+{
+  "id": "0037",
+  "name": "倉敷美観地区",
+  "prefecture": "岡山県",
+  "prefectureRomaji": "okayama",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "写真映え",
+    "体験",
+    "癒し",
+    "グルメ",
+    "買い物",
+    "春",
+    "秋",
+    "友達",
+    "カップル",
+    "一人旅",
+    "川"
+  ],
+  "mainImage": "images/0037/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.5,
+  "location": {
+    "lat": 34.595957,
+    "lng": 133.772243
+  }
+},
+{
+  "id": "0038",
+  "name": "倉敷アイビースクエア",
+  "prefecture": "岡山県",
+  "prefectureRomaji": "okayama",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "写真映え",
+    "グルメ",
+    "買い物",
+    "家族向け",
+    "カップル",
+    "友達",
+    "街中"
+  ],
+  "mainImage": "images/0038/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 34.594,
+    "lng": 133.774
+  }
+},
+{
+  "id": "0039",
+  "name": "岡山城",
+  "prefecture": "岡山県",
+  "prefectureRomaji": "okayama",
+  "tags": [
+    "歴史",
+    "建築",
+    "写真映え",
+    "春",
+    "秋",
+    "桜",
+    "紅葉",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0039/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 34.665143,
+    "lng": 133.935977
+  }
+},
+{
+  "id": "0040",
+  "name": "名古屋港水族館",
+  "prefecture": "愛知県",
+  "prefectureRomaji": "aichi",
+  "tags": [
+    "体験",
+    "写真映え",
+    "動物",
+    "家族向け",
+    "子供向け",
+    "カップル",
+    "友達",
+    "海",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0040/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.5,
+  "location": {
+    "lat": 35.09056,
+    "lng": 136.87796
+  }
+},
+{
+  "id": "0041",
+  "name": "岐阜城楽市",
+  "prefecture": "岐阜県",
+  "prefectureRomaji": "gifu",
+  "tags": [
+    "歴史",
+    "文化",
+    "体験",
+    "グルメ",
+    "買い物",
+    "友達",
+    "カップル",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0041/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 35.435065,
+    "lng": 136.773416
+  }
+},
+{
+  "id": "0042",
+  "name": "馬籠宿",
+  "prefecture": "岐阜県",
+  "prefectureRomaji": "gifu",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "自然",
+    "写真映え",
+    "癒し",
+    "グルメ",
+    "買い物",
+    "春",
+    "秋",
+    "紅葉",
+    "冬",
+    "雪景色",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "山",
+    "田舎"
+  ],
+  "mainImage": "images/0042/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.0,
+  "location": {
+    "lat": 35.5247,
+    "lng": 137.5583
+  }
 }
 
 
