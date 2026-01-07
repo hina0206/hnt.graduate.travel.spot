@@ -680,26 +680,21 @@
 },
 {
   "id": "0036",
-  "name": "蒲郡市生命の海科学館",
+  "name": "八百富神社",
   "prefecture": "愛知県",
   "prefectureRomaji": "aichi",
   "tags": [
     "自然",
     "歴史",
-    "文化",
-    "体験",
-    "家族向け",
-    "子供向け",
     "海",
-    "駅近"
   ],
   "mainImage": "images/0036/main.jpg",
   "description": "",
   "page": "",
-  "estimatedTime": 1.5,
+  "estimatedTime": 1,
   "location": {
-    "lat": 34.820179,
-    "lng": 137.225203
+    "lat": 34.81074671096803,
+    "lng": 137.2316569089629
   }
 },
 {
