@@ -1204,6 +1204,202 @@
     "lat": 31.914883,
     "lng": 131.431355
   }
+},
+{
+  "id": "0057",
+  "name": "スターバックスコーヒー 鹿児島仙厳園店",
+  "prefecture": "鹿児島県",
+  "prefectureRomaji": "kagoshima",
+  "tags": [
+    "グルメ",
+    "建築",
+    "写真映え",
+    "友達",
+    "カップル",
+    "一人旅",
+    "駅近"
+  ],
+  "mainImage": "images/0057/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 31.616795,
+    "lng": 130.575265
+  }
+},
+{
+  "id": "0058",
+  "name": "博多らーめん ShinShin博多デイトス店",
+  "prefecture": "福岡県",
+  "prefectureRomaji": "fukuoka",
+  "tags": [
+    "グルメ",
+    "友達",
+    "カップル",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0058/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 33.590888,
+    "lng": 130.421224
+  }
+},
+{
+  "id": "0059",
+  "name": "川越城本丸御殿",
+  "prefecture": "埼玉県",
+  "prefectureRomaji": "saitama",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "写真映え",
+    "春",
+    "秋",
+    "紅葉",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0059/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.924404,
+    "lng": 139.491497
+  }
+},
+{
+  "id": "0060",
+  "name": "根室花まるKITTE丸の内店",
+  "prefecture": "東京都",
+  "prefectureRomaji": "tokyo",
+  "tags": [
+    "グルメ",
+    "友達",
+    "カップル",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0060/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 35.6797469,
+    "lng": 139.7647979
+  }
+},
+{
+  "id": "0061",
+  "name": "マルデナポリ 名古屋",
+  "prefecture": "愛知県",
+  "prefectureRomaji": "aichi",
+  "tags": [
+    "グルメ",
+    "家族向け",
+    "友達",
+    "カップル",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0061/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.1721463,
+    "lng": 136.8826176
+  }
+},
+{
+  "id": "0062",
+  "name": "神戸須磨シーワールド",
+  "prefecture": "兵庫県",
+  "prefectureRomaji": "hyogo",
+  "tags": [
+    "動物",
+    "体験",
+    "アクティビティ",
+    "写真映え",
+    "家族向け",
+    "子供向け",
+    "友達",
+    "カップル",
+    "海",
+    "駅近"
+  ],
+  "mainImage": "images/0062/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 3.5,
+  "location": {
+    "lat": 34.643972,
+    "lng": 135.128441
+  }
+},
+{
+  "id": "0063",
+  "name": "湊川神社",
+  "prefecture": "兵庫県",
+  "prefectureRomaji": "hyogo",
+  "tags": [
+    "文化",
+    "歴史",
+    "春",
+    "桜",
+    "秋",
+    "紅葉",
+    "友達",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0063/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 34.681971,
+    "lng": 135.17512
+  }
+},
+{
+  "id": "0064",
+  "name": "ROKKO 森の音ミュージアム",
+  "prefecture": "兵庫県",
+  "prefectureRomaji": "hyogo",
+  "tags": [
+    "文化",
+    "自然",
+    "体験",
+    "癒し",
+    "写真映え",
+    "秋",
+    "紅葉",
+    "冬",
+    "雪景色",
+    "家族向け",
+    "友達",
+    "カップル",
+    "一人旅",
+    "山"
+  ],
+  "mainImage": "images/0064/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 34.761675,
+    "lng": 135.238337
+  }
 }
 
 
