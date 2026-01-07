@@ -871,6 +871,127 @@
     "lat": 35.5247,
     "lng": 137.5583
   }
+},
+{
+  "id": "0043",
+  "name": "浜松城",
+  "prefecture": "静岡県",
+  "prefectureRomaji": "shizuoka",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "写真映え",
+    "春",
+    "桜",
+    "秋",
+    "紅葉",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0043/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 34.711775,
+    "lng": 137.724908
+  }
+},
+{
+  "id": "0044",
+  "name": "八百徳",
+  "prefecture": "静岡県",
+  "prefectureRomaji": "shizuoka",
+  "tags": [
+    "グルメ",
+    "友達",
+    "カップル",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0044/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 34.706509,
+    "lng": 137.734414
+  }
+},
+{
+  "id": "0045",
+  "name": "楽器博物館",
+  "prefecture": "静岡県",
+  "prefectureRomaji": "shizuoka",
+  "tags": [
+    "文化",
+    "体験",
+    "家族向け",
+    "子供向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0045/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.0,
+  "location": {
+    "lat": 34.70632,
+    "lng": 137.73804
+  }
+},
+{
+  "id": "0046",
+  "name": "浜松科学館みらいーら",
+  "prefecture": "静岡県",
+  "prefectureRomaji": "shizuoka",
+  "tags": [
+    "体験",
+    "家族向け",
+    "子供向け",
+    "友達",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0046/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.0,
+  "location": {
+    "lat": 34.7049806,
+    "lng": 137.7398583
+  }
+},
+{
+  "id": "0047",
+  "name": "中田島砂丘",
+  "prefecture": "静岡県",
+  "prefectureRomaji": "shizuoka",
+  "tags": [
+    "自然",
+    "写真映え",
+    "癒し",
+    "家族向け",
+    "カップル",
+    "友達",
+    "海"
+  ],
+  "mainImage": "images/0047/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 34.66056,
+    "lng": 137.73972
+  }
 }
 
 
