@@ -1400,6 +1400,303 @@
     "lat": 34.761675,
     "lng": 135.238337
   }
+},
+{
+  "id": "0065",
+  "name": "パンとエスプレッソと姫路城",
+  "prefecture": "兵庫県",
+  "prefectureRomaji": "hyogo",
+  "tags": [
+    "グルメ",
+    "写真映え",
+    "友達",
+    "カップル",
+    "街中"
+  ],
+  "mainImage": "images/0065/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 34.838777,
+    "lng": 134.688839
+  }
+},
+{
+  "id": "0066",
+  "name": "姫路城",
+  "prefecture": "兵庫県",
+  "prefectureRomaji": "hyogo",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "写真映え",
+    "春",
+    "桜",
+    "秋",
+    "紅葉",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0066/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.0,
+  "location": {
+    "lat": 34.839418,
+    "lng": 134.693959
+  }
+},
+{
+  "id": "0067",
+  "name": "鯛めし かどや ロープウェー街店",
+  "prefecture": "愛媛県",
+  "prefectureRomaji": "ehime",
+  "tags": [
+    "グルメ",
+    "家族向け",
+    "友達",
+    "カップル",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0067/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 33.841419,
+    "lng": 132.770304
+  }
+},
+{
+  "id": "0068",
+  "name": "松山城ロープウェイ",
+  "prefecture": "愛媛県",
+  "prefectureRomaji": "ehime",
+  "tags": [
+    "体験",
+    "アクティビティ",
+    "写真映え",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0068/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.25,
+  "location": {
+    "lat": 33.84444,
+    "lng": 132.771806
+  }
+},
+{
+  "id": "0069",
+  "name": "松山城",
+  "prefecture": "愛媛県",
+  "prefectureRomaji": "ehime",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "写真映え",
+    "春",
+    "桜",
+    "秋",
+    "紅葉",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0069/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.0,
+  "location": {
+    "lat": 33.845539,
+    "lng": 132.765722
+  }
+},
+{
+  "id": "0070",
+  "name": "道後温泉本館",
+  "prefecture": "愛媛県",
+  "prefectureRomaji": "ehime",
+  "tags": [
+    "文化",
+    "建築",
+    "癒し",
+    "歴史",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0070/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 33.852055,
+    "lng": 132.786389
+  }
+},
+{
+  "id": "0071",
+  "name": "道後温泉別館",
+  "prefecture": "愛媛県",
+  "prefectureRomaji": "ehime",
+  "tags": [
+    "文化",
+    "建築",
+    "癒し",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0071/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 33.8522,
+    "lng": 132.7846
+  }
+},
+{
+  "id": "0072",
+  "name": "坊っちゃんカラクリ時計",
+  "prefecture": "愛媛県",
+  "prefectureRomaji": "ehime",
+  "tags": [
+    "文化",
+    "写真映え",
+    "家族向け",
+    "子供向け",
+    "友達",
+    "カップル",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0072/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.25,
+  "location": {
+    "lat": 33.850654,
+    "lng": 132.785491
+  }
+},
+{
+  "id": "0073",
+  "name": "坊っちゃん列車",
+  "prefecture": "愛媛県",
+  "prefectureRomaji": "ehime",
+  "tags": [
+    "体験",
+    "アクティビティ",
+    "歴史",
+    "文化",
+    "写真映え",
+    "家族向け",
+    "子供向け",
+    "友達",
+    "カップル",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0073/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 33.850352,
+    "lng": 132.784912
+  }
+},
+{
+  "id": "0074",
+  "name": "一六本舗 道後本館前店",
+  "prefecture": "愛媛県",
+  "prefectureRomaji": "ehime",
+  "tags": [
+    "グルメ",
+    "買い物",
+    "家族向け",
+    "友達",
+    "カップル",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0074/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.25,
+  "location": {
+    "lat": 33.852094,
+    "lng": 132.78594
+  }
+},
+{
+  "id": "0075",
+  "name": "うなぎ 小椋 道後店",
+  "prefecture": "愛媛県",
+  "prefectureRomaji": "ehime",
+  "tags": [
+    "グルメ",
+    "家族向け",
+    "友達",
+    "カップル",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0075/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 33.8511908,
+    "lng": 132.7850183
+  }
+},
+{
+  "id": "0076",
+  "name": "my botchan dango 30",
+  "prefecture": "愛媛県",
+  "prefectureRomaji": "ehime",
+  "tags": [
+    "グルメ",
+    "買い物",
+    "写真映え",
+    "体験",
+    "友達",
+    "カップル",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0076/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 33.851268,
+    "lng": 132.785305
+  }
 }
 
 
