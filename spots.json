@@ -474,5 +474,103 @@
       "lat": 34.481951,
       "lng": 136.845061
     }
+  },
+ {
+  "id": "0028",
+  "name": "GEROGERO BUTTER STAND",
+  "prefecture": "岐阜県",
+  "prefectureRomaji": "gifu",
+  "tags": [
+    "グルメ",
+    "写真映え",
+    "買い物",
+    "カップル",
+    "友達",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0028/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.25,
+  "location": {
+    "lat": 35.80927,
+    "lng": 137.242226
   }
+},
+{
+  "id": "0029",
+  "name": "合掌村",
+  "prefecture": "岐阜県",
+  "prefectureRomaji": "gifu",
+  "tags": [
+    "自然",
+    "歴史",
+    "文化",
+    "建築",
+    "体験",
+    "写真映え",
+    "癒し",
+    "家族向け",
+    "子供向け",
+    "田舎"
+  ],
+  "mainImage": "images/0029/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 35.808335,
+    "lng": 137.249695
+  }
+},
+{
+  "id": "0030",
+  "name": "下呂観光俱楽部 テルマエ射的",
+  "prefecture": "岐阜県",
+  "prefectureRomaji": "gifu",
+  "tags": [
+    "アクティビティ",
+    "体験",
+    "家族向け",
+    "カップル",
+    "友達",
+    "子供向け",
+    "街中"
+  ],
+  "mainImage": "images/0030/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.25,
+  "location": {
+    "lat": 35.805881,
+    "lng": 137.2441
+  }
+},
+{
+  "id": "0031",
+  "name": "道頓堀",
+  "prefecture": "大阪府",
+  "prefectureRomaji": "osaka",
+  "tags": [
+    "グルメ",
+    "写真映え",
+    "買い物",
+    "アクティビティ",
+    "カップル",
+    "友達",
+    "一人旅",
+    "川",
+    "街中"
+  ],
+  "mainImage": "images/0031/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.0,
+  "location": {
+    "lat": 34.668,
+    "lng": 135.501
+  }
+}
+
 ]
