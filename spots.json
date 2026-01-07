@@ -992,6 +992,223 @@
     "lat": 34.66056,
     "lng": 137.73972
   }
+},
+{
+  "id": "0048",
+  "name": "福井県立恐竜博物館",
+  "prefecture": "福井県",
+  "prefectureRomaji": "fukui",
+  "tags": [
+    "文化",
+    "体験",
+    "家族向け",
+    "子供向け",
+    "動物",
+    "歴史",
+    "自然"
+  ],
+  "mainImage": "images/0048/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.5,
+  "location": {
+    "lat": 36.0829,
+    "lng": 136.5067
+  }
+},
+{
+  "id": "0049",
+  "name": "越後大仏",
+  "prefecture": "福井県",
+  "prefectureRomaji": "fukui",
+  "tags": [
+    "文化",
+    "建築",
+    "歴史",
+    "癒し",
+    "写真映え",
+    "一人旅",
+    "自然"
+  ],
+  "mainImage": "images/0049/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 36.053672,
+    "lng": 136.519272
+  }
+},
+{
+  "id": "0050",
+  "name": "アドベンチャーワールド",
+  "prefecture": "和歌山県",
+  "prefectureRomaji": "wakayama",
+  "tags": [
+    "動物",
+    "体験",
+    "アクティビティ",
+    "家族向け",
+    "子供向け",
+    "カップル",
+    "友達",
+    "写真映え"
+  ],
+  "mainImage": "images/0050/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 7.0,
+  "location": {
+    "lat": 33.666711,
+    "lng": 135.372914
+  }
+},
+{
+  "id": "0051",
+  "name": "仙台城址",
+  "prefecture": "宮城県",
+  "prefectureRomaji": "miyagi",
+  "tags": [
+    "歴史",
+    "自然",
+    "写真映え",
+    "癒し",
+    "春",
+    "夏",
+    "秋",
+    "紅葉",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0051/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 38.252318,
+    "lng": 140.855946
+  }
+},
+{
+  "id": "0052",
+  "name": "弘前市立図書館",
+  "prefecture": "青森県",
+  "prefectureRomaji": "aomori",
+  "tags": [
+    "文化",
+    "建築",
+    "街中",
+    "一人旅"
+  ],
+  "mainImage": "images/0052/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 40.60244194,
+    "lng": 140.46533889
+  }
+},
+{
+  "id": "0053",
+  "name": "山車博物館",
+  "prefecture": "青森県",
+  "prefectureRomaji": "aomori",
+  "tags": [
+    "文化",
+    "歴史",
+    "家族向け",
+    "子供向け",
+    "写真映え",
+    "街中",
+    "夏"
+  ],
+  "mainImage": "images/0053/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 40.611502,
+    "lng": 140.46982
+  }
+},
+{
+  "id": "0054",
+  "name": "スターバックスコーヒー弘前公園前店",
+  "prefecture": "青森県",
+  "prefectureRomaji": "aomori",
+  "tags": [
+    "グルメ",
+    "建築",
+    "写真映え",
+    "街中",
+    "癒し",
+    "友達",
+    "カップル",
+    "一人旅",
+    "春",
+    "桜"
+  ],
+  "mainImage": "images/0054/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 40.603323,
+    "lng": 140.463169
+  }
+},
+{
+  "id": "0055",
+  "name": "ねぶた祭り",
+  "prefecture": "青森県",
+  "prefectureRomaji": "aomori",
+  "tags": [
+    "文化",
+    "歴史",
+    "体験",
+    "写真映え",
+    "夏",
+    "家族向け",
+    "子供向け",
+    "友達",
+    "カップル",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0055/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 40.8296,
+    "lng": 140.73583
+  }
+},
+{
+  "id": "0056",
+  "name": "お箸処北諸アミュプラザみやざき店",
+  "prefecture": "宮崎県",
+  "prefectureRomaji": "miyazaki",
+  "tags": [
+    "グルメ",
+    "街中",
+    "駅近",
+    "友達",
+    "カップル",
+    "一人旅"
+  ],
+  "mainImage": "images/0056/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 31.914883,
+    "lng": 131.431355
+  }
 }
 
 
