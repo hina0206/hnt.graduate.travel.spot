@@ -3191,6 +3191,403 @@
     "lat": 34.695384,
     "lng": 137.594751
   }
+},
+{
+  "id": "0134",
+  "name": "北野異人館街",
+  "prefecture": "兵庫県",
+  "prefectureRomaji": "hyogo",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "写真映え",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0134/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.5,
+  "location": {
+    "lat": 34.70127,
+    "lng": 135.19062
+  }
+},
+{
+  "id": "0135",
+  "name": "名古屋市科学館",
+  "prefecture": "愛知県",
+  "prefectureRomaji": "aichi",
+  "tags": [
+    "体験",
+    "アクティビティ",
+    "写真映え",
+    "家族向け",
+    "子供向け",
+    "カップル",
+    "友達",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0135/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 3.0,
+  "location": {
+    "lat": 35.1650768,
+    "lng": 136.8997026
+  }
+},
+{
+  "id": "0136",
+  "name": "インディアンタンドリー BINDU グランフロント大阪店",
+  "prefecture": "大阪府",
+  "prefectureRomaji": "osaka",
+  "tags": [
+    "グルメ",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0136/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 34.704686,
+    "lng": 135.494903
+  }
+},
+{
+  "id": "0137",
+  "name": "Nintendo Osaka",
+  "prefecture": "大阪府",
+  "prefectureRomaji": "osaka",
+  "tags": [
+    "買い物",
+    "体験",
+    "アクティビティ",
+    "写真映え",
+    "家族向け",
+    "子供向け",
+    "カップル",
+    "友達",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0137/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 34.701352,
+    "lng": 135.496426
+  }
+},
+{
+  "id": "0138",
+  "name": "YURT 大名古屋ビルヂング店",
+  "prefecture": "愛知県",
+  "prefectureRomaji": "aichi",
+  "tags": [
+    "グルメ",
+    "癒し",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0138/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.172188,
+    "lng": 136.884544
+  }
+},
+{
+  "id": "0139",
+  "name": "熱田神宮",
+  "prefecture": "愛知県",
+  "prefectureRomaji": "aichi",
+  "tags": [
+    "歴史",
+    "文化",
+    "癒し",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0139/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 35.127361,
+    "lng": 136.908667
+  }
+},
+{
+  "id": "0140",
+  "name": "明治村",
+  "prefecture": "愛知県",
+  "prefectureRomaji": "aichi",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "体験",
+    "写真映え",
+    "家族向け",
+    "カップル",
+    "友達",
+    "田舎"
+  ],
+  "mainImage": "images/0140/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 4.0,
+  "location": {
+    "lat": 35.3406,
+    "lng": 136.9887
+  }
+},
+{
+  "id": "0141",
+  "name": "挽き肉のトリコ",
+  "prefecture": "愛知県",
+  "prefectureRomaji": "aichi",
+  "tags": [
+    "グルメ",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0141/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.163822,
+    "lng": 136.903377
+  }
+},
+{
+  "id": "0142",
+  "name": "彦根城",
+  "prefecture": "滋賀県",
+  "prefectureRomaji": "shiga",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "写真映え",
+    "春",
+    "桜",
+    "秋",
+    "紅葉",
+    "雪景色",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0142/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.0,
+  "location": {
+    "lat": 35.276389,
+    "lng": 136.251944
+  }
+},
+{
+  "id": "0143",
+  "name": "近江牛肉うどん 麺匠ちゃかぽん",
+  "prefecture": "滋賀県",
+  "prefectureRomaji": "shiga",
+  "tags": [
+    "グルメ",
+    "歴史",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0143/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.277062,
+    "lng": 136.254935
+  }
+},
+{
+  "id": "0144",
+  "name": "熱海ばたーあん",
+  "prefecture": "静岡県",
+  "prefectureRomaji": "shizuoka",
+  "tags": [
+    "グルメ",
+    "買い物",
+    "カップル",
+    "友達",
+    "一人旅",
+    "駅近",
+    "街中"
+  ],
+  "mainImage": "images/0144/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.25,
+  "location": {
+    "lat": 35.102336,
+    "lng": 139.077611
+  }
+},
+{
+  "id": "0145",
+  "name": "来宮神社",
+  "prefecture": "静岡県",
+  "prefectureRomaji": "shizuoka",
+  "tags": [
+    "歴史",
+    "文化",
+    "自然",
+    "癒し",
+    "写真映え",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0145/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.100501,
+    "lng": 139.067855
+  }
+},
+{
+  "id": "0146",
+  "name": "熱海おさかな・大食堂",
+  "prefecture": "静岡県",
+  "prefectureRomaji": "shizuoka",
+  "tags": [
+    "グルメ",
+    "海",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "駅近",
+    "街中"
+  ],
+  "mainImage": "images/0146/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.101766,
+    "lng": 139.076453
+  }
+},
+{
+  "id": "0147",
+  "name": "熱海城",
+  "prefecture": "静岡県",
+  "prefectureRomaji": "shizuoka",
+  "tags": [
+    "歴史",
+    "文化",
+    "体験",
+    "アクティビティ",
+    "写真映え",
+    "海",
+    "家族向け",
+    "子供向け",
+    "カップル",
+    "友達"
+  ],
+  "mainImage": "images/0147/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 35.086389,
+    "lng": 139.078611
+  }
+},
+{
+  "id": "0148",
+  "name": "熱海ミルチーズ",
+  "prefecture": "静岡県",
+  "prefectureRomaji": "shizuoka",
+  "tags": [
+    "グルメ",
+    "買い物",
+    "カップル",
+    "友達",
+    "一人旅",
+    "駅近",
+    "街中"
+  ],
+  "mainImage": "images/0148/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.25,
+  "location": {
+    "lat": 35.1019367,
+    "lng": 139.0769323
+  }
+},
+{
+  "id": "0149",
+  "name": "天龍寺",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "自然",
+    "癒し",
+    "写真映え",
+    "春",
+    "桜",
+    "秋",
+    "紅葉",
+    "雪景色",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "山",
+    "川"
+  ],
+  "mainImage": "images/0149/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 35.015964,
+    "lng": 135.673772
+  }
 }
 
 ]
