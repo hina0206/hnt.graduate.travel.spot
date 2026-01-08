@@ -3709,6 +3709,117 @@
     "lat": 35.02048712,
     "lng": 135.67081264
   }
+},
+{
+  "id": "0155",
+  "name": "二尊院",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "自然",
+    "癒し",
+    "春",
+    "桜",
+    "秋",
+    "紅葉",
+    "一人旅",
+    "街中",
+    "山"
+  ],
+  "mainImage": "images/0155/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.021198,
+    "lng": 135.667846
+  }
+},
+{
+  "id": "0156",
+  "name": "常寂光寺",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "自然",
+    "癒し",
+    "写真映え",
+    "秋",
+    "紅葉",
+    "一人旅",
+    "街中",
+    "山"
+  ],
+  "mainImage": "images/0156/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.019639,
+    "lng": 135.668675
+  }
+},
+{
+  "id": "0157",
+  "name": "嵐山灯篭流し",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "文化",
+    "体験",
+    "写真映え",
+    "夏",
+    "癒し",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "川"
+  ],
+  "mainImage": "images/0157/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.0,
+  "location": {
+    "lat": 35.009392,
+    "lng": 135.667007
+  }
+},
+{
+  "id": "0158",
+  "name": "北野天満宮",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "写真映え",
+    "春",
+    "夏",
+    "秋",
+    "紅葉",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中",
+    "川"
+  ],
+  "mainImage": "images/0158/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 35.029194,
+    "lng": 135.735000
+  }
 }
 
 ]
