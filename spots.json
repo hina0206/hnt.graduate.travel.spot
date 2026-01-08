@@ -2698,5 +2698,161 @@
     "lat": 33.310523,
     "lng": 131.486646
   }
+},
+ {
+  "id": "0114",
+  "name": "東山動植物園",
+  "prefecture": "愛知県",
+  "prefectureRomaji": "aichi",
+  "tags": [
+    "自然",
+    "動物",
+    "家族向け",
+    "子供向け",
+    "カップル",
+    "友達",
+    "癒し",
+    "写真映え",
+    "春",
+    "秋"
+  ],
+  "mainImage": "images/0114/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 4.0,
+  "location": {
+    "lat": 35.156538,
+    "lng": 136.981810
+  }
+},
+{
+  "id": "0115",
+  "name": "ニンテンドーミュージアム",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "文化",
+    "体験",
+    "家族向け",
+    "子供向け",
+    "カップル",
+    "友達",
+    "買い物",
+    "写真映え",
+    "アクティビティ"
+  ],
+  "mainImage": "images/0115/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.5,
+  "location": {
+    "lat": 34.892904,
+    "lng": 135.784188
+  }
+},
+{
+  "id": "0116",
+  "name": "平等院",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "写真映え",
+    "癒し",
+    "春",
+    "秋",
+    "桜",
+    "紅葉",
+    "一人旅",
+    "カップル",
+    "友達",
+    "田舎"
+  ],
+  "mainImage": "images/0116/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 34.88944,
+    "lng": 135.80778
+  }
+},
+{
+  "id": "0117",
+  "name": "中村藤吉本店",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "グルメ",
+    "一人旅",
+    "カップル",
+    "友達",
+    "駅近",
+    "田舎"
+  ],
+  "mainImage": "images/0117/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 34.8913,
+    "lng": 135.8016
+  }
+},
+{
+  "id": "0118",
+  "name": "東寺",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "写真映え",
+    "春",
+    "桜",
+    "秋",
+    "紅葉",
+    "一人旅",
+    "カップル",
+    "友達",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0118/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 34.980556,
+    "lng": 135.747778
+  }
+},
+{
+  "id": "0119",
+  "name": "atelier 京ばあむ",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "グルメ",
+    "買い物",
+    "写真映え",
+    "家族向け",
+    "子供向け",
+    "カップル",
+    "友達",
+    "街中"
+  ],
+  "mainImage": "images/0119/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 34.9829,
+    "lng": 135.7484
+  }
 }
+
 ]
