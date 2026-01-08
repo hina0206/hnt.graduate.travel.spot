@@ -2933,6 +2933,264 @@
     "lat": 34.806417,
     "lng": 135.533583
   }
+},
+{
+  "id": "0123",
+  "name": "北海道ラーメン道場",
+  "prefecture": "北海道",
+  "prefectureRomaji": "hokkaido",
+  "tags": [
+    "グルメ",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "駅近",
+    "街中"
+  ],
+  "mainImage": "images/0123/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 42.77528,
+    "lng": 141.69250
+  }
+},
+{
+  "id": "0124",
+  "name": "らーめん空 新千歳空港店",
+  "prefecture": "北海道",
+  "prefectureRomaji": "hokkaido",
+  "tags": [
+    "グルメ",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "駅近",
+    "街中"
+  ],
+  "mainImage": "images/0124/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 42.787643,
+    "lng": 141.681341
+  }
+},
+{
+  "id": "0125",
+  "name": "小樽オルゴール堂",
+  "prefecture": "北海道",
+  "prefectureRomaji": "hokkaido",
+  "tags": [
+    "文化",
+    "体験",
+    "買い物",
+    "写真映え",
+    "癒し",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0125/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 43.1911476,
+    "lng": 141.0068875
+  }
+},
+{
+  "id": "0126",
+  "name": "ジンギスカンRam",
+  "prefecture": "北海道",
+  "prefectureRomaji": "hokkaido",
+  "tags": [
+    "グルメ",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0126/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 43.052033,
+    "lng": 141.352716
+  }
+},
+{
+  "id": "0127",
+  "name": "砂川ハイウェイオアシス館",
+  "prefecture": "北海道",
+  "prefectureRomaji": "hokkaido",
+  "tags": [
+    "グルメ",
+    "買い物",
+    "体験",
+    "家族向け",
+    "子供向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "田舎"
+  ],
+  "mainImage": "images/0127/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 43.5221529,
+    "lng": 141.9301262
+  }
+},
+{
+  "id": "0128",
+  "name": "スープカレーGARAKU 新千歳空港店",
+  "prefecture": "北海道",
+  "prefectureRomaji": "hokkaido",
+  "tags": [
+    "グルメ",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "駅近",
+    "街中"
+  ],
+  "mainImage": "images/0128/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 42.77528,
+    "lng": 141.69250
+  }
+},
+{
+  "id": "0129",
+  "name": "きのとや 新千歳空港店",
+  "prefecture": "北海道",
+  "prefectureRomaji": "hokkaido",
+  "tags": [
+    "グルメ",
+    "買い物",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "駅近",
+    "街中"
+  ],
+  "mainImage": "images/0129/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 42.77528,
+    "lng": 141.69250
+  }
+},
+{
+  "id": "0130",
+  "name": "さわやか 浜松遠鉄店",
+  "prefecture": "静岡県",
+  "prefectureRomaji": "shizuoka",
+  "tags": [
+    "グルメ",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0130/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 34.703871,
+    "lng": 137.733176
+  }
+},
+{
+  "id": "0131",
+  "name": "スイーツバンク",
+  "prefecture": "静岡県",
+  "prefectureRomaji": "shizuoka",
+  "tags": [
+    "グルメ",
+    "写真映え",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0131/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 34.69052368,
+    "lng": 137.71982249
+  }
+},
+{
+  "id": "0132",
+  "name": "弁天島",
+  "prefecture": "静岡県",
+  "prefectureRomaji": "shizuoka",
+  "tags": [
+    "自然",
+    "写真映え",
+    "癒し",
+    "海",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅"
+  ],
+  "mainImage": "images/0132/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 34.696666,
+    "lng": 137.596527
+  }
+},
+{
+  "id": "0133",
+  "name": "弁天島プリン",
+  "prefecture": "静岡県",
+  "prefectureRomaji": "shizuoka",
+  "tags": [
+    "グルメ",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "海",
+    "街中"
+  ],
+  "mainImage": "images/0133/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 34.695384,
+    "lng": 137.594751
+  }
 }
 
 ]
