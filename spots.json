@@ -213,191 +213,273 @@
     "lng": 135.74717474907612
   }
 },
- 
-  {
-    "id": "0011",
-    "name": "川越氷川神社",
-    "prefecture": "埼玉",
-    "prefectureRomaji": "saitama",
-    "tags": ["文化","写真映え","夏","街中"],
-    "mainImage": "images/0011/main.jpg",
-    "description": "",
-    "page": "",
-    "estimatedTime": 0.25,
-    "location": {
-      "lat": 35.9283108234429,  
-      "lng": 139.4880437845298 
-    }
-  },
- 
-  {
-    "id": "0012",
-    "name": "富山市ガラス美術館",
-    "prefecture": "富山",
-    "prefectureRomaji": "toyama",
-    "tags": ["建築","写真映え","街中"],
-    "mainImage": "images/0012/main.jpg",
-    "description": "",
-    "page": "",
-    "estimatedTime": 0.75,
-    "location": {
-      "lat": 36.68857933699901, 
-      "lng": 137.2151857953011
-    }
-  },
- 
-   {
-    "id": "0013",
-    "name": "金沢21世紀美術館",
-    "prefecture": "石川",
-    "prefectureRomaji": "ishikawa",
-    "tags": ["文化","建築","アクティビティ","写真映え","体験","街中"],
-    "mainImage": "images/0013/main.jpg",
-    "description": "",
-    "page": "",
-    "estimatedTime": 1.5,
-    "location": {
-      "lat": 36.56118587916719, 
-      "lng": 136.65870104896183
-    }
-   },
- 
-   {
-    "id": "0014",
-    "name": "熊本城",
-    "prefecture": "熊本",
-    "prefectureRomaji": "kumamoto",
-    "tags": ["歴史","建築","友達","一人旅","街中"],
-    "mainImage": "images/0014/main.jpg",
-    "description": "",
-    "page": "",
-    "estimatedTime": 2,
-    "location": {
-      "lat": 32.806375244595024, 
-      "lng": 130.7058442239145
-    }
-  },
- 
-  {
+{
+  "id": "0011",
+  "name": "川越氷川神社",
+  "prefecture": "埼玉",
+  "prefectureRomaji": "saitama",
+  "tags": [
+    "文化",
+    "写真映え",
+    "夏",
+    "街中"
+  ],
+  "mainImage": "images/0011/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.25,
+  "location": {
+    "lat": 35.9283108234429,
+    "lng": 139.4880437845298
+  }
+},
+{
+  "id": "0012",
+  "name": "富山市ガラス美術館",
+  "prefecture": "富山",
+  "prefectureRomaji": "toyama",
+  "tags": [
+    "建築",
+    "写真映え",
+    "街中"
+  ],
+  "mainImage": "images/0012/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.75,
+  "location": {
+    "lat": 36.68857933699901,
+    "lng": 137.2151857953011
+  }
+},
+{
+  "id": "0013",
+  "name": "金沢21世紀美術館",
+  "prefecture": "石川",
+  "prefectureRomaji": "ishikawa",
+  "tags": [
+    "文化",
+    "建築",
+    "アクティビティ",
+    "写真映え",
+    "体験",
+    "街中"
+  ],
+  "mainImage": "images/0013/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 36.56118587916719,
+    "lng": 136.65870104896183
+  }
+},
+{
+  "id": "0014",
+  "name": "熊本城",
+  "prefecture": "熊本",
+  "prefectureRomaji": "kumamoto",
+  "tags": [
+    "歴史",
+    "建築",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0014/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2,
+  "location": {
+    "lat": 32.806375244595024,
+    "lng": 130.7058442239145
+  }
+},
+{
   "id": "0015",
   "name": "瑞鳳殿",
   "prefecture": "宮城",
   "prefectureRomaji": "miyagi",
-  "tags": ["自然","歴史","建築","癒し","夏","紅葉", "山"],
+  "tags": [
+    "自然",
+    "歴史",
+    "建築",
+    "癒し",
+    "夏",
+    "紅葉",
+    "山"
+  ],
   "mainImage": "images/0015/main.jpg",
   "description": "",
   "page": "",
   "estimatedTime": 1.5,
   "location": {
-    "lat": 38.25055679173761, 
+    "lat": 38.25055679173761,
     "lng": 140.86667596759654
-  } 
-  },
- {
+  }
+},
+{
   "id": "0016",
   "name": "横浜中華街",
   "prefecture": "神奈川",
   "prefectureRomaji": "kanagawa",
-  "tags": ["文化","グルメ","写真映え","体験","買い物","家族向け","友達","街中","駅近"],
+  "tags": [
+    "文化",
+    "グルメ",
+    "写真映え",
+    "体験",
+    "買い物",
+    "家族向け",
+    "友達",
+    "街中",
+    "駅近"
+  ],
   "mainImage": "images/0016/main.jpg",
   "description": "",
   "page": "",
   "estimatedTime": 3,
   "location": {
-    "lat": 35.44328933575588, 
+    "lat": 35.44328933575588,
     "lng": 139.64407864218305
   }
- },
- {
+},
+{
   "id": "0017",
   "name": "河口湖 音楽と森の美術館",
   "prefecture": "山梨",
   "prefectureRomaji": "yamanashi",
-  "tags": ["文化","グルメ","写真映え","体験","家族向け","カップル","友達","子供向け"],
+  "tags": [
+    "文化",
+    "グルメ",
+    "写真映え",
+    "体験",
+    "家族向け",
+    "カップル",
+    "友達",
+    "子供向け"
+  ],
   "mainImage": "images/0017/main.jpg",
   "description": "",
   "page": "",
   "estimatedTime": 3,
   "location": {
-    "lat": 35.52322074137998, 
+    "lat": 35.52322074137998,
     "lng": 138.76845707622957
   }
- },
- {
+},
+{
   "id": "0018",
   "name": "永平寺",
   "prefecture": "福井",
   "prefectureRomaji": "fukui",
-  "tags": ["自然","歴史","癒し","紅葉","雪景色","一人旅","山","田舎"],
+  "tags": [
+    "自然",
+    "歴史",
+    "癒し",
+    "紅葉",
+    "雪景色",
+    "一人旅",
+    "山",
+    "田舎"
+  ],
   "mainImage": "images/0018/main.jpg",
   "description": "",
   "page": "",
   "estimatedTime": 1.5,
   "location": {
-    "lat": 36.06038898502756, 
+    "lat": 36.06038898502756,
     "lng": 136.35918088005894
   }
- },
- {
+},
+{
   "id": "0019",
   "name": "岐阜城",
   "prefecture": "岐阜",
   "prefectureRomaji": "gifu",
-  "tags": ["自然","歴史","春","紅葉","一人旅","山"],
+  "tags": [
+    "自然",
+    "歴史",
+    "春",
+    "紅葉",
+    "一人旅",
+    "山"
+  ],
   "mainImage": "images/0019/main.jpg",
   "description": "",
   "page": "",
   "estimatedTime": 2,
   "location": {
-    "lat": 35.43407948072469, 
+    "lat": 35.43407948072469,
     "lng": 136.78211302615836
   }
- },
- {
+},
+{
   "id": "0020",
   "name": "竹島水族館",
   "prefecture": "愛知",
   "prefectureRomaji": "aichi",
-  "tags": ["体験","癒し","動物","家族向け","カップル","友達","子供向け","海"],
+  "tags": [
+    "体験",
+    "癒し",
+    "動物",
+    "家族向け",
+    "カップル",
+    "友達",
+    "子供向け",
+    "海"
+  ],
   "mainImage": "images/0020/main.jpg",
   "description": "",
   "page": "",
   "estimatedTime": 2,
   "location": {
-    "lat": 34.81746535148623, 
+    "lat": 34.81746535148623,
     "lng": 137.2319025798484
   }
- },
- {
+},
+{
   "id": "0021",
   "name": "日本平夢テラス",
   "prefecture": "静岡",
   "prefectureRomaji": "shizuoka",
-  "tags": ["自然","建築","写真映え","山"],
+  "tags": [
+    "自然",
+    "建築",
+    "写真映え",
+    "山"
+  ],
   "mainImage": "images/0021/main.jpg",
   "description": "",
   "page": "",
   "estimatedTime": 0.5,
   "location": {
-    "lat": 34.97477387670067, 
+    "lat": 34.97477387670067,
     "lng": 138.4657720184861
   }
- },
- {
+},
+{
   "id": "0022",
   "name": "沖縄美ら海水族館",
   "prefecture": "沖縄県",
   "prefectureRomaji": "okinawa",
-  "tags": ["自然","写真映え","体験","動物","家族向け", "子供向け","海"],
+  "tags": [
+    "自然",
+    "写真映え",
+    "体験",
+    "動物",
+    "家族向け",
+    "子供向け",
+    "海"
+  ],
   "mainImage": "images/0022/main.jpg",
   "description": "",
   "page": "",
-  "estimatedTime": 2.0,
+  "estimatedTime": 2,
   "location": {
-  "lat": 26.694,
-  "lng": 127.878
+    "lat": 26.694,
+    "lng": 127.878
   }
- },
+},
   {
     "id": "0023",
     "name": "鳥取砂丘",
