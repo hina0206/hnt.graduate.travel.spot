@@ -2853,6 +2853,86 @@
     "lat": 34.9829,
     "lng": 135.7484
   }
+},
+{
+  "id": "0120",
+  "name": "平安神宮",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "写真映え",
+    "癒し",
+    "春",
+    "桜",
+    "秋",
+    "紅葉",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0120/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 35.016667,
+    "lng": 135.782222
+  }
+},
+{
+  "id": "0121",
+  "name": "岡崎神社",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "歴史",
+    "文化",
+    "写真映え",
+    "癒し",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0121/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.75,
+  "location": {
+    "lat": 35.017223,
+    "lng": 135.789154
+  }
+},
+{
+  "id": "0122",
+  "name": "atoa",
+  "prefecture": "兵庫県",
+  "prefectureRomaji": "hyogo",
+  "tags": [
+    "動物",
+    "体験",
+    "写真映え",
+    "家族向け",
+    "子供向け",
+    "カップル",
+    "友達",
+    "癒し",
+    "街中"
+  ],
+  "mainImage": "images/0122/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.0,
+  "location": {
+    "lat": 34.806417,
+    "lng": 135.533583
+  }
 }
 
 ]
