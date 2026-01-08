@@ -3820,6 +3820,136 @@
     "lat": 35.029194,
     "lng": 135.735000
   }
+},
+{
+  "id": "0159",
+  "name": "鹿苑寺",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "歴史",
+    "文化",
+    "建築",
+    "自然",
+    "写真映え",
+    "癒し",
+    "春",
+    "夏",
+    "秋",
+    "紅葉",
+    "冬",
+    "雪景色",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0159/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.0394028,
+    "lng": 135.7293639
+  }
+},
+{
+  "id": "0160",
+  "name": "TEA ROOM KIKI",
+  "prefecture": "愛知県",
+  "prefectureRomaji": "aichi",
+  "tags": [
+    "グルメ",
+    "癒し",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0160/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 38.18181544236248,
+    "lng": 137.15010390566204
+  }
+},
+{
+  "id": "0161",
+  "name": "Nintendo Kyoto",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "買い物",
+    "体験",
+    "アクティビティ",
+    "写真映え",
+    "家族向け",
+    "子供向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0161/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 35.003532,
+    "lng": 135.768819
+  }
+},
+{
+  "id": "0162",
+  "name": "抹茶館 京都河原町",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "グルメ",
+    "体験",
+    "写真映え",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0162/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.004904,
+    "lng": 135.768878
+  }
+},
+{
+  "id": "0163",
+  "name": "ゆばんざいこ豆や 錦店",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "グルメ",
+    "文化",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0163/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.0048722,
+    "lng": 135.7617936
+  }
 }
 
 ]
