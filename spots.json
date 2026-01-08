@@ -2175,6 +2175,131 @@
     "lat": 26.213522,
     "lng": 127.686884
   }
+},
+{
+  "id": "0098",
+  "name": "Tギャラリア沖縄 by DFS",
+  "prefecture": "沖縄県",
+  "prefectureRomaji": "okinawa",
+  "tags": [
+    "買い物",
+    "街中",
+    "駅近",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅"
+  ],
+  "mainImage": "images/0098/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.0,
+  "location": {
+    "lat": 26.223047,
+    "lng": 127.69798
+  }
+},
+{
+  "id": "0099",
+  "name": "富士大石ハナテラス",
+  "prefecture": "山梨県",
+  "prefectureRomaji": "yamanashi",
+  "tags": [
+    "自然",
+    "写真映え",
+    "買い物",
+    "グルメ",
+    "癒し",
+    "夏",
+    "秋",
+    "家族向け",
+    "カップル",
+    "友達",
+    "山"
+  ],
+  "mainImage": "images/0099/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 35.5205,
+    "lng": 138.768
+  }
+},
+{
+  "id": "0100",
+  "name": "ほうとう不動 河口湖北本店",
+  "prefecture": "山梨県",
+  "prefectureRomaji": "yamanashi",
+  "tags": [
+    "グルメ",
+    "建築",
+    "写真映え",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "山"
+  ],
+  "mainImage": "images/0100/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.522655,
+    "lng": 138.77366
+  }
+},
+{
+  "id": "0101",
+  "name": "グータン",
+  "prefecture": "山梨県",
+  "prefectureRomaji": "yamanashi",
+  "tags": [
+    "グルメ",
+    "癒し",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "山",
+    "田舎"
+  ],
+  "mainImage": "images/0101/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.43420670419486,
+    "lng": 138.91192786137256
+  }
+},
+{
+  "id": "0102",
+  "name": "忍野八海",
+  "prefecture": "山梨県",
+  "prefectureRomaji": "yamanashi",
+  "tags": [
+    "自然",
+    "写真映え",
+    "グルメ",
+    "買い物",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "山",
+    "川",
+    "田舎"
+  ],
+  "mainImage": "images/0102/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 2.0,
+  "location": {
+    "lat": 35.46111,
+    "lng": 138.83333
+  }
 }
 
 ]
