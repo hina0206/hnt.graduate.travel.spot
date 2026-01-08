@@ -3588,6 +3588,127 @@
     "lat": 35.015964,
     "lng": 135.673772
   }
+},
+{
+  "id": "0150",
+  "name": "まめものとたい焼き 嵐山本店",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "グルメ",
+    "買い物",
+    "写真映え",
+    "カップル",
+    "友達",
+    "一人旅",
+    "駅近",
+    "街中"
+  ],
+  "mainImage": "images/0150/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.25,
+  "location": {
+    "lat": 35.015058,
+    "lng": 135.676972
+  }
+},
+{
+  "id": "0151",
+  "name": "愛宕念仏寺",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "歴史",
+    "建築",
+    "自然",
+    "癒し",
+    "秋",
+    "紅葉",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0151/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.031375,
+    "lng": 135.6611222
+  }
+},
+{
+  "id": "0152",
+  "name": "あだし野念仏寺",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "歴史",
+    "癒し",
+    "秋",
+    "紅葉",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0152/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.0268,
+    "lng": 135.6645
+  }
+},
+{
+  "id": "0153",
+  "name": "祇王寺",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "歴史",
+    "文化",
+    "自然",
+    "癒し",
+    "春",
+    "夏",
+    "秋",
+    "紅葉",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0153/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.75,
+  "location": {
+    "lat": 35.023389,
+    "lng": 135.66675
+  }
+},
+{
+  "id": "0154",
+  "name": "落柿舎",
+  "prefecture": "京都府",
+  "prefectureRomaji": "kyoto",
+  "tags": [
+    "歴史",
+    "文化",
+    "自然",
+    "癒し",
+    "秋",
+    "紅葉",
+    "一人旅",
+    "街中",
+    "田舎"
+  ],
+  "mainImage": "images/0154/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.75,
+  "location": {
+    "lat": 35.02048712,
+    "lng": 135.67081264
+  }
 }
 
 ]
