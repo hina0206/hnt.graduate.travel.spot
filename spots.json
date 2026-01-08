@@ -2437,6 +2437,358 @@
     "lat": 35.46111,
     "lng": 138.83333
   }
+},
+{
+  "id": "0103",
+  "name": "冨士浅間神社",
+  "prefecture": "山梨県",
+  "prefectureRomaji": "yamanashi",
+  "tags": [
+    "自然",
+    "歴史",
+    "文化",
+    "癒し",
+    "山",
+    "田舎",
+    "一人旅",
+    "カップル",
+    "友達",
+    "家族向け"
+  ],
+  "mainImage": "images/0103/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 35.47075,
+    "lng": 138.792416
+  }
+},
+{
+  "id": "0104",
+  "name": "海地獄",
+  "prefecture": "大分県",
+  "prefectureRomaji": "oita",
+  "tags": [
+    "自然",
+    "写真映え",
+    "癒し",
+    "アクティビティ",
+    "グルメ",
+    "体験",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅"
+  ],
+  "mainImage": "images/0104/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.75,
+  "location": {
+    "lat": 33.316055,
+    "lng": 131.469005
+  }
+},
+{
+  "id": "0105",
+  "name": "鬼石坊主地獄",
+  "prefecture": "大分県",
+  "prefectureRomaji": "oita",
+  "tags": [
+    "自然",
+    "写真映え",
+    "癒し",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅"
+  ],
+  "mainImage": "images/0105/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 33.31562857,
+    "lng": 131.46954885
+  }
+},
+{
+  "id": "0106",
+  "name": "かまど地獄",
+  "prefecture": "大分県",
+  "prefectureRomaji": "oita",
+  "tags": [
+    "自然",
+    "写真映え",
+    "体験",
+    "グルメ",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅"
+  ],
+  "mainImage": "images/0106/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.75,
+  "location": {
+    "lat": 33.31621,
+    "lng": 131.472418
+  }
+},
+{
+  "id": "0107",
+  "name": "鬼山地獄",
+  "prefecture": "大分県",
+  "prefectureRomaji": "oita",
+  "tags": [
+    "自然",
+    "動物",
+    "体験",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅"
+  ],
+  "mainImage": "images/0107/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 33.31643266,
+    "lng": 131.47369145
+  }
+},
+{
+  "id": "0108",
+  "name": "白池地獄",
+  "prefecture": "大分県",
+  "prefectureRomaji": "oita",
+  "tags": [
+    "自然",
+    "写真映え",
+    "動物",
+    "癒し",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅"
+  ],
+  "mainImage": "images/0108/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 33.315288,
+    "lng": 131.474158
+  }
+},
+{
+  "id": "0109",
+  "name": "血の池地獄",
+  "prefecture": "大分県",
+  "prefectureRomaji": "oita",
+  "tags": [
+    "自然",
+    "写真映え",
+    "買い物",
+    "癒し",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅"
+  ],
+  "mainImage": "images/0109/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 33.32713304079591,
+    "lng": 131.47810872474548
+  }
+},
+{
+  "id": "0110",
+  "name": "龍巻地獄",
+  "prefecture": "大分県",
+  "prefectureRomaji": "oita",
+  "tags": [
+    "自然",
+    "写真映え",
+    "体験",
+    "癒し",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅"
+  ],
+  "mainImage": "images/0110/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 33.327100440780804,
+    "lng": 131.47933622474562
+  }
+},
+{
+  "id": "0111",
+  "name": "東洋軒",
+  "prefecture": "大分県",
+  "prefectureRomaji": "oita",
+  "tags": [
+    "グルメ",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0111/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 33.300937,
+    "lng": 131.499563
+  }
+},
+{
+  "id": "0112",
+  "name": "ひょうたん温泉",
+  "prefecture": "大分県",
+  "prefectureRomaji": "oita",
+  "tags": [
+    "体験",
+    "癒し",
+    "家族向け",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0112/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 33.3144392,
+    "lng": 131.47930721
+  }
+},
+{
+  "id": "0113",
+  "name": "別府甘味茶屋",
+  "prefecture": "大分県",
+  "prefectureRomaji": "oita",
+  "tags": [
+    "グルメ",
+    "癒し",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0113/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.75,
+  "location": {
+    "lat": 33.310523,
+    "lng": 131.486646
+  }
+}
+{
+  "id": "0110",
+  "name": "龍巻地獄",
+  "prefecture": "大分県",
+  "prefectureRomaji": "oita",
+  "tags": [
+    "自然",
+    "写真映え",
+    "体験",
+    "癒し",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅"
+  ],
+  "mainImage": "images/0110/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 33.327100440780804,
+    "lng": 131.47933622474562
+  }
+},
+{
+  "id": "0111",
+  "name": "東洋軒",
+  "prefecture": "大分県",
+  "prefectureRomaji": "oita",
+  "tags": [
+    "グルメ",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0111/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 33.300937,
+    "lng": 131.499563
+  }
+},
+{
+  "id": "0112",
+  "name": "ひょうたん温泉",
+  "prefecture": "大分県",
+  "prefectureRomaji": "oita",
+  "tags": [
+    "体験",
+    "癒し",
+    "家族向け",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0112/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.5,
+  "location": {
+    "lat": 33.3144392,
+    "lng": 131.47930721
+  }
+},
+{
+  "id": "0113",
+  "name": "別府甘味茶屋",
+  "prefecture": "大分県",
+  "prefectureRomaji": "oita",
+  "tags": [
+    "グルメ",
+    "癒し",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中"
+  ],
+  "mainImage": "images/0113/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.75,
+  "location": {
+    "lat": 33.310523,
+    "lng": 131.486646
+  }
 }
 
 ]
