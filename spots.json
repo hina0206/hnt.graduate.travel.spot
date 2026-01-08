@@ -1736,46 +1736,7 @@
   "description": "",
   "page": "",
   "estimatedTime": 1.0,
-  "l
-{
-  "id": "0077",
-  "name": "うどんバカ一代",
-  "prefecture": "香川県",
-  "prefectureRomaji": "kagawa",
-  "tags": [
-    "グルメ",
-    "街中",
-    "友達",
-    "カップル",
-    "一人旅"
-  ],
-  "mainImage": "images/0077/main.jpg",
-  "description": "",
-  "page": "",
-  "estimatedTime": 1.0,
   "location": {
-    "lat": 34.336754,
-    "lng": 134.058517
-  }
-},
-{
-  "id": "0078",
-  "name": "釜揚げうどん 岡じま",
-  "prefecture": "香川県",
-  "prefectureRomaji": "kagawa",
-  "tags": [
-    "グルメ",
-    "駅近",
-    "街中",
-    "友達",
-    "カップル",
-    "一人旅"
-  ],
-  "mainImage": "images/0078/main.jpg",
-  "description": "",
-  "page": "",
-  "estimatedTime": 1.0,
-   "location": {
     "lat": 34.34884,
     "lng": 134.049095
   }
