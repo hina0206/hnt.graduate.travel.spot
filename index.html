@@ -61,12 +61,19 @@
           `<span class="tag" onclick="event.stopPropagation(); window.location.href='https://hina0206.github.io/hnt.graduate.travel/tag.html?tag=${encodeURIComponent(tag)}'">${tag}</span>`
         ).join('');
 
+        // ★ descriptionがあるときだけ表示
+        const descriptionHTML =
+          spot.description && spot.description.trim() !== ""
+            ? `<p class="description">${spot.description}</p>`
+            : "";
+
           
         // カードの中身
         card.innerHTML = `
           <img src="${spot.mainImage}" alt="${spot.name}" />
           <div class="card-content">
             <h3>${spot.name}</h3>
+             ${descriptionHTML}
             <p class="pref" onclick="event.stopPropagation(); window.location.href='https://hina0206.github.io/hnt.graduate.travel.pref/${spot.prefectureRomaji}.html'">
                 ${spot.prefecture}
             </p>
