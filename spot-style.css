@@ -116,12 +116,15 @@ h2 {
   font-size: 0.85rem;
   color: #555;
   margin: 0.3em 0;
-}
-
+  line-height: 1.4;
+  
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+  
 
 .site-footer {
   background: #f0f0f0;
