@@ -112,6 +112,13 @@ h2 {
   border-bottom: 1px solid #eee;
 }
 
+.description {
+  font-size: 0.85rem;
+  color: #555;
+  margin: 0.3em 0;
+}
+
+
 .site-footer {
   background: #f0f0f0;
   color: #333;
