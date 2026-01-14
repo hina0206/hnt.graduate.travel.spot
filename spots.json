@@ -4029,4 +4029,78 @@
     "lng": 140.47768333004004
   }
 },
+  {
+  "id": "0167",
+  "name": "常磐神社",
+  "prefecture": "茨城県",
+  "prefectureRomaji": "ibaraki",
+  "tags": [
+    "自然",
+    "歴史",
+    "癒し",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅"
+  ],
+  "mainImage": "images/0167/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 36.37514673919212, 
+    "lng": 140.45567231885184
+  }
+},
+  {
+  "id": "0168",
+  "name": "蕎麦処まち庵 水戸エクセル店",
+  "prefecture": "茨城県",
+  "prefectureRomaji": "ibaraki",
+  "tags": [
+    "歴史",
+    "グルメ",
+    "癒し",
+    "家族向け",
+    "カップル",
+    "友達",
+    "一人旅",
+    "街中",
+    "駅近"
+  ],
+  "mainImage": "images/0168/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 36.37162586852261, 
+    "lng": 140.47630232450902
+  }
+},
+  {
+  "id": "0169",
+  "name": "大洗磯前神社",
+  "prefecture": "茨城県",
+  "prefectureRomaji": "ibaraki",
+  "tags": [
+    "自然",
+    "歴史",
+    "文化",
+    "写真映え",
+    "癒し",
+    "冬",
+    "カップル",
+    "友達",
+    "海",
+    "田舎"
+  ],
+  "mainImage": "images/0169/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 0.5,
+  "location": {
+    "lat": 36.316766885382805, 
+    "lng": 140.58744846277997
+  }
+}
 ]
