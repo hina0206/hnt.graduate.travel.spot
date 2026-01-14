@@ -3950,6 +3950,57 @@
     "lat": 35.0048722,
     "lng": 135.7617936
   }
+},
+ {
+  "id": "0164",
+  "name": "偕楽園",
+  "prefecture": "茨城県",
+  "prefectureRomaji": "ibaraki",
+  "tags": [
+    "自然",
+    "歴史",
+    "建築",
+    "写真映え",
+    "春",
+    "カップル",
+    "友達",
+    "一人旅",
+    "川"
+  ],
+  "mainImage": "images/0164/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 36.37558633827283, 
+    "lng": 140.45384062416394
+  }
+},
+ {
+  "id": "0165",
+  "name": "好文亭",
+  "prefecture": "茨城県",
+  "prefectureRomaji": "ibaraki",
+  "tags": [
+    "自然",
+    "歴史",
+    "建築",
+    "写真映え",
+    "癒し",
+    "春",
+    "カップル",
+    "友達",
+    "一人旅",
+    "山",
+    "川"
+  ],
+  "mainImage": "images/0165/main.jpg",
+  "description": "",
+  "page": "",
+  "estimatedTime": 1.0,
+  "location": {
+    "lat": 36.374359692061944, 
+    "lng": 140.45260680801087
+  }
 }
-
 ]
