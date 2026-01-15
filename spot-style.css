@@ -117,12 +117,24 @@ h2 {
   color: #555;
   margin: 0.3em 0;
   line-height: 1.4;
-  
+}
+.description.short {
+  overflow: hidden;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
-  overflow: hidden;
 }
+
+.read-more {
+  background: none;
+  border: none;
+  color: #4a90e2;
+  font-size: 0.85rem;
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: 0.4rem;
+}
+
 
   
 
