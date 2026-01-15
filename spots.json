@@ -15,7 +15,7 @@
     "山"
   ],
   "mainImage": "images/0001/main.jpg",
-  "description": "日本最北の動物園。冬には雪の中で生活する動物の様子が見られる。",
+  "description": "日本最北の動物園！冬には雪の中で生活する動物の様子が見られます",
   "page": "",
   "estimatedTime": 3.5,
   "location": {
@@ -36,7 +36,7 @@
     "街中"
   ],
   "mainImage": "images/0002/main.jpg",
-  "description": "",
+  "description": "小樽の街並みや運河の風景をクルーズ船からの特別な視点で楽しめます",
   "page": "",
   "estimatedTime": 0.75,
   "location": {
@@ -55,7 +55,7 @@
     "街中"
   ],
   "mainImage": "images/0003/main.jpg",
-  "description": "",
+  "description": "セブンイレブンともコラボしている美味しい味噌ラーメン屋さん",
   "page": "",
   "estimatedTime": 0.75,
   "location": {
@@ -74,7 +74,7 @@
     "街中"
   ],
   "mainImage": "images/0004/main.jpg",
-  "description": "",
+  "description": "北海道の新鮮な海鮮を楽しめます。整理券で待てるので周辺観光とセットでどうぞ！",
   "page": "",
   "estimatedTime": 0.75,
   "location": {
@@ -93,7 +93,7 @@
     "一人旅"
   ],
   "mainImage": "images/0005/main.jpg",
-  "description": "",
+  "description": "円山公園に隣接する神宮。自然豊かで運が良ければ野生のリスなどと遭遇できます",
   "page": "",
   "estimatedTime": 0.75,
   "location": {
