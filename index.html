@@ -63,9 +63,13 @@
 
         // ★ descriptionがあるときだけ表示
         const descriptionHTML =
-          spot.description && spot.description.trim() !== ""
-            ? `<p class="description">${spot.description}</p>`
-            : "";
+        spot.description && spot.description.trim() !== ""
+          ? `
+            <p class="description short">${spot.description}</p>
+            <button class="read-more">続きを読む</button>
+          `
+          : "";
+
 
           
         // カードの中身
@@ -88,6 +92,17 @@
           container.appendChild(card);
         });
       })
+        // ★続きを読むの動作
+      document.querySelectorAll(".read-more").forEach(btn => {
+        btn.addEventListener("click", () => {
+          const desc = btn.previousElementSibling;
+          desc.classList.toggle("short");
+          btn.textContent = desc.classList.contains("short")
+            ? "続きを読む"
+            : "閉じる";
+        });
+      });
+    })
       .catch(err => console.error('JSON読み込みエラー:', err));
   </script>
 
