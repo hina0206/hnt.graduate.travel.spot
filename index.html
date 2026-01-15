@@ -35,64 +35,44 @@
 </footer>
 
 
-  <script>
-    fetch('spots.json')
-      .then(res => res.json())
-      .then(data => {
-        const container = document.getElementById('spot-cards');
-  
-        data.forEach(spot => {
-        /*0000テンプレは一覧に出さない
-          if (spot.id === "0000") return;*/
-  
-          const card = document.createElement('div');
-          card.className = 'spot-card';
-  
-          /* カード全体クリックで詳細ページへ
-          card.onclick = () => {
-            window.location.href = `spots/${spot.id}.html`;
-          };*/
-          
-        // 都道府県名をローマ字URLに変換
-        const prefSlug = spot.prefectureRomaji || encodeURIComponent(spot.prefecture.toLowerCase());
+ <script>
+  fetch('spots.json')
+    .then(res => res.json())
+    .then(data => {
+      const container = document.getElementById('spot-cards');
 
-        // タグ
-        const tagHTML = (spot.tags || []).map(tag =>
-          `<span class="tag" onclick="event.stopPropagation(); window.location.href='https://hina0206.github.io/hnt.graduate.travel/tag.html?tag=${encodeURIComponent(tag)}'">${tag}</span>`
-        ).join('');
+      data.forEach(spot => {
+        const card = document.createElement('div');
+        card.className = 'spot-card';
 
-        // ★ descriptionがあるときだけ表示
         const descriptionHTML =
-        spot.description && spot.description.trim() !== ""
-          ? `
-            <p class="description short">${spot.description}</p>
-            <button class="read-more">続きを読む</button>
-          `
-          : "";
+          spot.description && spot.description.trim() !== ""
+            ? `
+              <p class="description short">${spot.description}</p>
+              <button class="read-more">続きを読む</button>
+            `
+            : "";
 
-
-          
-        // カードの中身
         card.innerHTML = `
           <img src="${spot.mainImage}" alt="${spot.name}" />
           <div class="card-content">
             <h3>${spot.name}</h3>
-             ${descriptionHTML}
+            ${descriptionHTML}
             <p class="pref" onclick="event.stopPropagation(); window.location.href='https://hina0206.github.io/hnt.graduate.travel.pref/${spot.prefectureRomaji}.html'">
-                ${spot.prefecture}
+              ${spot.prefecture}
             </p>
             <div class="card-tags">
-              ${spot.tags.map(tag =>
+              ${(spot.tags || []).map(tag =>
                 `<span class="tag" onclick="event.stopPropagation(); window.location.href='https://hina0206.github.io/hnt.graduate.travel/tag.html?tag=${encodeURIComponent(tag)}'">${tag}</span>`
               ).join('')}
             </div>
           </div>
-          `;
-  
-          container.appendChild(card);
-        });
-      })
-        // ★続きを読むの動作
+        `;
+
+        container.appendChild(card);
+      });
+
+      // ★続きを読むの動作（ここ！）
       document.querySelectorAll(".read-more").forEach(btn => {
         btn.addEventListener("click", () => {
           const desc = btn.previousElementSibling;
@@ -103,8 +83,8 @@
         });
       });
     })
-      .catch(err => console.error('JSON読み込みエラー:', err));
-  </script>
+    .catch(err => console.error('JSON読み込みエラー:', err));
+</script>
 
 
 </body>
