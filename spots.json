@@ -2646,7 +2646,7 @@
     "街中"
   ],
   "mainImage": "images/0111/main.jpg",
-  "description": "",
+  "description": "とり天発祥のお店です。人気のお店で、美味しいとり天がいただけます",
   "page": "",
   "estimatedTime": 1.0,
   "location": {
@@ -2668,7 +2668,7 @@
     "街中"
   ],
   "mainImage": "images/0112/main.jpg",
-  "description": "",
+  "description": "お風呂だけでもいろんな温泉が楽しめます",
   "page": "",
   "estimatedTime": 1.5,
   "location": {
@@ -2742,7 +2742,7 @@
     "アクティビティ"
   ],
   "mainImage": "images/0115/main.jpg",
-  "description": "",
+  "description": "ポイントを利用して任天堂らしいゲームが遊べます。予約必須です",
   "page": "",
   "estimatedTime": 2.5,
   "location": {
@@ -2771,7 +2771,7 @@
     "田舎"
   ],
   "mainImage": "images/0116/main.jpg",
-  "description": "",
+  "description": "10円玉にも乗っている平等院です。桜の時期はよりきれいです",
   "page": "",
   "estimatedTime": 1.5,
   "location": {
@@ -2846,7 +2846,7 @@
     "街中"
   ],
   "mainImage": "images/0119/main.jpg",
-  "description": "",
+  "description": "京ばあむを作っている風景が見られます",
   "page": "",
   "estimatedTime": 0.5,
   "location": {
@@ -2901,7 +2901,7 @@
     "街中"
   ],
   "mainImage": "images/0121/main.jpg",
-  "description": "",
+  "description": "うさぎのおみくじが並んでいるのが可愛いです",
   "page": "",
   "estimatedTime": 0.75,
   "location": {
@@ -2926,7 +2926,7 @@
     "街中"
   ],
   "mainImage": "images/0122/main.jpg",
-  "description": "",
+  "description": "美術館みたいな水族館です",
   "page": "",
   "estimatedTime": 2.0,
   "location": {
@@ -3068,7 +3068,7 @@
     "街中"
   ],
   "mainImage": "images/0128/main.jpg",
-  "description": "",
+  "description": "和なスープカレーを楽しめます",
   "page": "",
   "estimatedTime": 1.0,
   "location": {
@@ -3161,7 +3161,7 @@
     "一人旅"
   ],
   "mainImage": "images/0132/main.jpg",
-  "description": "",
+  "description": "冬至の頃には夕日が鳥居に入ります",
   "page": "",
   "estimatedTime": 1.0,
   "location": {
@@ -3968,7 +3968,7 @@
     "川"
   ],
   "mainImage": "images/0164/main.jpg",
-  "description": "",
+  "description": "梅の時期に行くときれいな庭園が見られます",
   "page": "",
   "estimatedTime": 1.0,
   "location": {
