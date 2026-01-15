@@ -781,7 +781,7 @@
     "駅近"
   ],
   "mainImage": "images/0034/main.jpg",
-  "description": "",
+  "description": "工夫された展示物で自然史と科学技術史の両方を楽しく学べます",
   "page": "",
   "estimatedTime": 3.0,
   "location": {
@@ -807,7 +807,7 @@
     "駅近"
   ],
   "mainImage": "images/0035/main.jpg",
-  "description": "",
+  "description": "世界観に引き込むおもてなしがあふれるテーマパーク",
   "page": "",
   "estimatedTime": 8.0,
   "location": {
@@ -826,7 +826,7 @@
     "海"
   ],
   "mainImage": "images/0036/main.jpg",
-  "description": "",
+  "description": "竹島にある神社。橋は強風注意です！",
   "page": "",
   "estimatedTime": 1,
   "location": {
@@ -856,7 +856,7 @@
     "川"
   ],
   "mainImage": "images/0037/main.jpg",
-  "description": "",
+  "description": "川から眺める情緒あふれる景色を楽しめます",
   "page": "",
   "estimatedTime": 2.5,
   "location": {
@@ -882,7 +882,7 @@
     "街中"
   ],
   "mainImage": "images/0038/main.jpg",
-  "description": "",
+  "description": "倉敷紡績所を再利用した、宿泊もできる観光施設。赤レンガと蔦が特徴的",
   "page": "",
   "estimatedTime": 1.0,
   "location": {
@@ -910,7 +910,7 @@
     "街中"
   ],
   "mainImage": "images/0039/main.jpg",
-  "description": "",
+  "description": "烏城とも呼ばれる黒が特徴的なお城",
   "page": "",
   "estimatedTime": 1.5,
   "location": {
@@ -936,7 +936,7 @@
     "駅近"
   ],
   "mainImage": "images/0040/main.jpg",
-  "description": "",
+  "description": "シャチやペンギンが近くで見られる日本最大級の水族館",
   "page": "",
   "estimatedTime": 2.5,
   "location": {
@@ -961,7 +961,7 @@
     "街中"
   ],
   "mainImage": "images/0041/main.jpg",
-  "description": "",
+  "description": "岐阜公園内にあり地元の文化や食べ歩きを楽しめます",
   "page": "",
   "estimatedTime": 1.5,
   "location": {
@@ -996,7 +996,7 @@
     "田舎"
   ],
   "mainImage": "images/0042/main.jpg",
-  "description": "",
+  "description": "坂を上ったところにある見晴台からは山々の美しい景色が見られます",
   "page": "",
   "estimatedTime": 2.0,
   "location": {
@@ -1025,9 +1025,9 @@
     "街中"
   ],
   "mainImage": "images/0043/main.jpg",
-  "description": "",
+  "description": "出世城とも呼ばれ、家康と浜松に関わる資料を見られます",
   "page": "",
-  "estimatedTime": 1.5,
+  "estimatedTime": 1.0,
   "location": {
     "lat": 34.711775,
     "lng": 137.724908
@@ -1047,7 +1047,7 @@
     "駅近"
   ],
   "mainImage": "images/0044/main.jpg",
-  "description": "",
+  "description": "お櫃鰻茶漬けはボリューム満点でお腹いっぱいになります",
   "page": "",
   "estimatedTime": 1.0,
   "location": {
@@ -1072,7 +1072,7 @@
     "駅近"
   ],
   "mainImage": "images/0045/main.jpg",
-  "description": "",
+  "description": "世界各国の楽器を見たり、触ったりして楽しめます",
   "page": "",
   "estimatedTime": 2.0,
   "location": {
@@ -1094,7 +1094,7 @@
     "駅近"
   ],
   "mainImage": "images/0046/main.jpg",
-  "description": "",
+  "description": "子供にしか通れない道はわくわくします",
   "page": "",
   "estimatedTime": 2.0,
   "location": {
@@ -1117,7 +1117,7 @@
     "海"
   ],
   "mainImage": "images/0047/main.jpg",
-  "description": "",
+  "description": "砂丘から眺める夕日が美しいです",
   "page": "",
   "estimatedTime": 1.5,
   "location": {
