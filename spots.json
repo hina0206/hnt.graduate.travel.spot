@@ -359,7 +359,7 @@
     "子供向け"
   ],
   "mainImage": "images/0017/main.jpg",
-  "description": "",
+  "description": "タイタニックに乗るはずだったパイプオルガンが鑑賞できます",
   "page": "",
   "estimatedTime": 3,
   "location": {
@@ -383,7 +383,7 @@
     "田舎"
   ],
   "mainImage": "images/0018/main.jpg",
-  "description": "",
+  "description": "実際の修行僧がいらっしゃり、修行の様子を感じられます",
   "page": "",
   "estimatedTime": 1.5,
   "location": {
@@ -405,7 +405,7 @@
     "山"
   ],
   "mainImage": "images/0019/main.jpg",
-  "description": "",
+  "description": "天守から岐阜市を見渡せます",
   "page": "",
   "estimatedTime": 2,
   "location": {
@@ -429,7 +429,7 @@
     "海"
   ],
   "mainImage": "images/0020/main.jpg",
-  "description": "",
+  "description": "美味、珍味など少し変わった視点で生物を見られます",
   "page": "",
   "estimatedTime": 2,
   "location": {
@@ -449,7 +449,7 @@
     "山"
   ],
   "mainImage": "images/0021/main.jpg",
-  "description": "",
+  "description": "360度パノラマで富士山をきれいに見られます",
   "page": "",
   "estimatedTime": 0.5,
   "location": {
@@ -472,7 +472,7 @@
     "海"
   ],
   "mainImage": "images/0022/main.jpg",
-  "description": "",
+  "description": "ジンベエザメが様々な角度から見られます",
   "page": "",
   "estimatedTime": 2,
   "location": {
@@ -497,7 +497,7 @@
       "海"
     ],
     "mainImage": "images/0023/main.jpg",
-    "description": "",
+    "description": "果てしなく広がる砂丘とラクダ乗りが楽しめます",
     "page": "",
     "estimatedTime": 1.5,
     "location": {
@@ -524,7 +524,7 @@
       "街中"
     ],
     "mainImage": "images/0024/main.jpg",
-    "description": "",
+    "description": "日本三名泉の１つで、老舗の旅館でゆったりとした時間が過ごせます",
     "page": "",
     "estimatedTime": 3.0,
     "location": {
@@ -551,7 +551,7 @@
       "街中"
     ],
     "mainImage": "images/0025/main.jpg",
-    "description": "",
+    "description": "多様な泉質の温泉が楽しめます。地獄めぐりとセットがおすすめ",
     "page": "",
     "estimatedTime": 2.5,
     "location": {
