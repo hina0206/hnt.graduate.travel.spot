@@ -74,7 +74,7 @@
     "街中"
   ],
   "mainImage": "images/0004/main.jpg",
-  "description": "北海道の新鮮な海鮮を楽しめます。整理券で待てるので周辺観光とセットでどうぞ！",
+  "description": "北海道の新鮮な海鮮を楽しめます。整理券システム有",
   "page": "",
   "estimatedTime": 0.75,
   "location": {
@@ -93,7 +93,7 @@
     "一人旅"
   ],
   "mainImage": "images/0005/main.jpg",
-  "description": "円山公園に隣接する神宮。自然豊かで運が良ければ野生のリスなどと遭遇できます",
+  "description": "自然豊かで運が良ければ野生のリスなどと遭遇できます",
   "page": "",
   "estimatedTime": 0.75,
   "location": {
@@ -117,7 +117,7 @@
     "雪景色"
   ],
   "mainImage": "images/0006/main.jpg",
-  "description": "",
+  "description": "春には桜、冬にはライトアップが楽しめる美しいお城です",
   "page": "",
   "estimatedTime": 1,
   "location": {
@@ -139,7 +139,7 @@
     "駅近"
   ],
   "mainImage": "images/0007/main.jpg",
-  "description": "",
+  "description": "比内地鶏の親子丼やきりたんぽを味わえます",
   "page": "",
   "estimatedTime": 0.75,
   "location": {
@@ -158,7 +158,7 @@
     "田舎"
   ],
   "mainImage": "images/0008/main.jpg",
-  "description": "",
+  "description": "上杉謙信をまつる神社。上杉家関連の資料が見られます",
   "page": "",
   "estimatedTime": 0.75,
   "location": {
